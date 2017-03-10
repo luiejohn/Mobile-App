@@ -1,0 +1,133 @@
+body {
+  background-color: #02454b;
+}
+
+.headload {
+  height: 120px;
+  text-align: center;
+  color:#fff;
+  font-weight: 200;
+  margin: 80px 0 30px 0; 
+}
+
+.setup-1{
+  background-image: url("../img/collect.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.header {
+  height: 260px;
+  background-color: #00838f;
+  background-image: url("../img/education.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.header-content{
+  height: 220px;
+
+}
+.header-content ul {
+  margin-top: -20px;
+}
+
+.homebuttons {
+  position: relative;
+  margin-top: 60px;
+
+}
+.homebuttons a{
+  color:#fff;
+}
+
+.home-accordion {
+  background-color: #e57373;
+  color: #fff;
+  font-size: .85em;
+  border-width: 0.01em;
+  border-color: #bfbfbf;
+  height: 50px;
+  padding: 40px 40 0px 0;
+  font-weight: 200;
+
+}
+.tophead{
+  color: #fff;
+  text-align: center;
+  font-size: 1.7em;
+  margin: 10px 0 20px 0;
+}
+.midhead{
+  color: #fff;
+  text-align: center;
+  font-size: 1.3em;
+  margin: 0 0 20px 0;
+  font-weight: 100;
+}
+
+
+.side-header {
+  height: 230px;
+  width: 100%;
+  background-color: #424242;
+}
+.side-nav li{
+  border-width: 0.01em;
+  border-color:  #d9d9d9;
+  color: black;
+  text-align: left;
+}
+.profi {
+  border:20px solid #333333;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  margin-top: 65px;
+}
+.todays {
+  text-align: center;
+  color: white;
+  margin-top: 55px;
+  font-size: 2em;
+  letter-spacing: -1px;
+
+}
+
+.program {
+  height: 130px;
+  width: 130px;
+  border: 10px solid #ef9a9a;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #e57373;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.days {
+  text-align: center;
+  margin: 7px 0 7px 0;
+  border: 0.1em solid #d9d9d9;
+}
+.select-button {
+  margin: 10px 0 15px 0;
+}
+
+.card {
+  height: 150px;
+   border-radius: 5px;
+}
+.cardholder{
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 2.5em;
+  line-height: 90%;
+
+}
