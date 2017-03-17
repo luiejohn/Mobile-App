@@ -2,6 +2,18 @@ body {
   background-color: #02454b;
 }
 
+.logo {
+   height: 75px;
+   width: 120px;
+}
+
+.logo-small {
+  padding-top: 5px;
+  margin-bottom: -5px;
+  height: 30px;
+  width: 50px;
+}
+
 .headload {
   height: 120px;
   text-align: center;
@@ -62,8 +74,10 @@ body {
   color: #fff;
   text-align: center;
   font-size: 1.3em;
-  margin: 0 0 20px 0;
   font-weight: 100;
+  margin:10px 0 0 0;
+  z-index: 999;
+
 }
 
 
@@ -110,7 +124,8 @@ a {
 .days {
   text-align: center;
   margin: 7px 0 7px 0;
-  border: 0.1em solid #d9d9d9;
+  /*border: 0.1em solid #d9d9d9;*/
+  float: left;
 }
 .select-button {
   margin: 10px 0 15px 0;
@@ -131,3 +146,18 @@ a {
   line-height: 90%;
 
 }
+
+.excessAccordion {
+  margin:0px;
+}
+
+.check {
+  float: left;
+  margin-top: 15px;
+
+}
+.check label {
+  color:#fff;
+  padding-right: 0px;
+}
+
